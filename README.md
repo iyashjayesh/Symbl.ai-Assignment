@@ -58,6 +58,8 @@
 - [React App Demo Link](https://symbl-ai-assignment-question-3.netlify.app/)
 
 ### ReactJs App
+- Integrated the code from Question 1 and developed an ReactJS application which fetches and display the `id` and `name` field by sorting.
+
 ![Example 1 - Google Chrome 12_6_2021 2_10_04 PM](https://user-images.githubusercontent.com/87180720/144825367-468cb09a-4fca-40d0-8e81-b18475885c7d.png)
 
 ---
